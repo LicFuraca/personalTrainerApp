@@ -1,0 +1,11 @@
+package model;
+
+public enum TrainingSessionType {
+    INDIVIDUAL_TWO_DAYS,
+    INDIVIDUAL_THREE_DAYS,
+    GROUP_LARGE_THREE_DAYS,
+    GROUP_LARGE_TWO_DAYS,
+    GROUP_MEDIUM,
+    GROUP_SMALL,
+    LONG_DISTANCE
+}
